@@ -31,6 +31,7 @@
     "google-images": "^1.0.0",
     "mongodb": "^2.2.1",
     "mongoose": "^4.1.0",
+    "node-google-image-search": "^1.0.2",
     "passport": "^0.3.0",
     "passport-github": "^1.0.0",
     "stream": "0.0.2"
